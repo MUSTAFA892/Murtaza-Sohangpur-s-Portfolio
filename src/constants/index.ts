@@ -25,13 +25,18 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  maya,
+  AI,
+  AE,
+  DW,
+  Figma,
+  Framer,
+  spline,
+  wix
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -127,7 +132,7 @@ const experiences: TExperience[] = [
   {
     title: "Figma Developer",
     companyName: "Figma",
-    icon: starbucks,
+    icon: Figma,
     iconBg: "#383E56",
     date: "March 2022 ",
     points: [
@@ -141,7 +146,7 @@ const experiences: TExperience[] = [
   {
     title: "Illustrator",
     companyName: "Illustrator",
-    icon: tesla,
+    icon: AI,
     iconBg: "#E6DEDD",
     date: "Jan 2022 ",
     points: [
@@ -155,7 +160,7 @@ const experiences: TExperience[] = [
   {
     title: "Dreamweaver",
     companyName: "Dreamweaver",
-    icon: shopify,
+    icon: DW,
     iconBg: "#383E56",
     date: "Jan 2022 ",
     points: [
@@ -169,7 +174,7 @@ const experiences: TExperience[] = [
   {
     title: "After Effects",
     companyName: "Sfter Effects",
-    icon: meta,
+    icon: AE,
     iconBg: "#E6DEDD",
     date: "Jan  2024    ",
     points: [
@@ -183,7 +188,7 @@ const experiences: TExperience[] = [
   {
     title: "Wix Studio",
     companyName: "Wix Studio",
-    icon: meta,
+    icon: wix,
     iconBg: "#E6DEDD",
     date: "April  2024    ",
     points: [
@@ -197,7 +202,7 @@ const experiences: TExperience[] = [
   {
     title: "Framer",
     companyName: "Framer",
-    icon: meta,
+    icon: Framer,
     iconBg: "#E6DEDD",
     date: "May  2024    ",
     points: [
@@ -211,7 +216,7 @@ const experiences: TExperience[] = [
   {
     title: "Spline",
     companyName: "Spline",
-    icon: meta,
+    icon: spline,
     iconBg: "#E6DEDD",
     date: "May  2024    ",
     points: [
@@ -225,7 +230,7 @@ const experiences: TExperience[] = [
   {
     title: "Maya",
     companyName: "Maya",
-    icon: meta,
+    icon: maya,
     iconBg: "#E6DEDD",
     date: "June  2024    ",
     points: [

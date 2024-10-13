@@ -29,6 +29,16 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import maya from "./company/maya.png"
+
+
+import AE from "./company/AE.png"
+import AI from "./company/AI.png"
+import DW from "./company/DW.png"
+import Figma from "./company/figma.png"
+import Framer from "./company/framer.png"
+import spline from "./company/spline.jpg"
+import wix from "./company/wix.png"
 
 export {
   logo,
@@ -59,4 +69,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  maya,
+  AE,
+  AI,
+  DW,
+  Figma,
+  Framer,
+  spline,
+  wix
 };
