@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Murtaza Huzefa",
+    fullName: "Murtaza Huzefa",
+    email: "smoothuxmuru@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Murtaza Huzefa",
+    p: ["UI/UX and Graphic Designer"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `On the UI/UX side, we focus on designing intuitive, user-friendly interfaces that enhance user experiences across digital platforms. By combining aesthetics with usability, we ensure that every design we create not only looks stunning but also functions seamlessly to meet business goals. Our mission is to help our clients stand out, drive user engagement, and turn ideas into impactful digital realities.`,
     },
     experience: {
       p: "What I have done so far",
