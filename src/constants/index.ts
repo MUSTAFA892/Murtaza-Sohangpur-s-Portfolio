@@ -24,9 +24,7 @@ import {
   figma,
   docker,
  
-  carrent,
-  jobit,
-  tripguide,
+
   threejs,
   maya,
   AI,
