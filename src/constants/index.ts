@@ -258,7 +258,7 @@ const projects: TProject[] = [
   {
     name: "Shoes UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
         name: "react",
@@ -279,7 +279,7 @@ const projects: TProject[] = [
   {
     name: "Cycle Shopping UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
         name: "react",
@@ -300,7 +300,7 @@ const projects: TProject[] = [
   {
     name: "Clothing UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -321,7 +321,7 @@ const projects: TProject[] = [
   {
     name: "Nike Shopping UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -342,7 +342,7 @@ const projects: TProject[] = [
   {
     name: "Headphones UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -363,7 +363,7 @@ const projects: TProject[] = [
   {
     name: "Clothing UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -384,7 +384,7 @@ const projects: TProject[] = [
   {
     name: "Luxury Watches UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -405,7 +405,7 @@ const projects: TProject[] = [
   {
     name: "Jordan Shopping UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -426,7 +426,7 @@ const projects: TProject[] = [
   {
     name: "Uber UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -447,7 +447,7 @@ const projects: TProject[] = [
   {
     name: "Game UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -468,7 +468,7 @@ const projects: TProject[] = [
   {
     name: "Shoes UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",
@@ -489,7 +489,7 @@ const projects: TProject[] = [
   {
     name: "Futuristics Clothing UI",
     description:
-      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "Figma",

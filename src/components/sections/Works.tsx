@@ -12,7 +12,6 @@ import { TProject } from "../../types";
 const ProjectCard: React.FC<{ index: number } & TProject> = ({
   index,
   name,
-  description,
   tags,
   image,
   sourceCodeLink,
@@ -48,7 +47,6 @@ const ProjectCard: React.FC<{ index: number } & TProject> = ({
           </div>
           <div className="mt-5">
             <h3 className="text-[24px] font-bold text-white">{name}</h3>
-            <p className="text-secondary mt-2 text-[14px]">{description}</p>
           </div>
           <div className="mt-4 flex flex-wrap gap-2">
             {tags.map((tag) => (
