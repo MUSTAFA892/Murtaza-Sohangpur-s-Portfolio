@@ -40,6 +40,20 @@ import Framer from "./company/framer.png"
 import spline from "./company/spline.jpg"
 import wix from "./company/wix.png"
 
+import a from "./company/1.jpg"
+import b from "./company/2.jpg"
+import c from "./company/3.jpg"
+import d from "./company/4.jpg"
+import e from "./company/5.jpg"
+import f from "./company/6.jpg"
+import g from "./company/7.jpg"
+import h from "./company/8.jpg"
+import i from "./company/9.jpg"
+import j from "./company/10.jpg"
+import k from "./company/11.jpg"
+import l from "./company/12.jpg"
+
+
 export {
   logo,
   backend,
@@ -76,5 +90,17 @@ export {
   Figma,
   Framer,
   spline,
-  wix
+  wix,
+  a,
+  b,
+  c,
+  d,
+  e,
+  f,
+  g,
+  h,
+  i,
+  j,
+  k,
+  l
 };
