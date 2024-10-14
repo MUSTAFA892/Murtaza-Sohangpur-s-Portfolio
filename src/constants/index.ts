@@ -24,7 +24,9 @@ import {
   figma,
   docker,
  
-
+  carrent,
+  jobit,
+  tripguide,
   threejs,
   maya,
   AI,
@@ -258,7 +260,7 @@ const projects: TProject[] = [
   {
     name: "Shoes UI",
     description:
-      "Designing a Shoes UI in Figma involves creating a sleek, visually appealing interface that allows users to easily browse and shop for shoes. At the top, the header features a well-placed logo on the left, followed by a central search bar for finding specific shoes, and a horizontal navigation menu with options like Men, Women, Kids, and Sale. On the right, icons for user profile and shopping cart provide easy access, with the cart showing the number of items inside.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "react",
@@ -274,12 +276,12 @@ const projects: TProject[] = [
       },
     ],
     image: a,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Cycle Shopping UI",
     description:
-      "Designing a Cycling Gear Shopping UI in Figma requires a balance of functionality, clean design, and engaging visuals to make browsing and purchasing easy for users. Here's a description of how to structure the UI: The header at the top features the brand logo on the left for quick identification, followed by a central search bar for users to find specific cycling gear, such as bikes, helmets, or accessories.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "react",
@@ -295,19 +297,19 @@ const projects: TProject[] = [
       },
     ],
     image: b,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Clothing UI",
     description:
-      "Designing a Clothing Shopping UI in Figma involves creating an intuitive and visually appealing interface that enhances the shopping experience. The header features the brand logo on the left, a central search bar for quick item searches, and a horizontal navigation menu with categories like Men,Women,Kids,New Arrivals, and Sale. Icons for the user profile, wish list, and shopping cart are positioned on the right, with the cart displaying the number of items.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -316,19 +318,19 @@ const projects: TProject[] = [
       },
     ],
     image: c,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Nike Shopping UI",
     description:
-      "Designing a Nike Shopping UI in Figma would focus on a modern, dynamic, and sporty interface that aligns with Nike’s brand identity. The header would feature the iconic Nike logo on the left, followed by a clean search bar for users to find products like sneakers, apparel, or accessories, and a horizontal navigation menu with categories such as Men, Women, Kids, New Arrivals, and Sale. ",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -337,19 +339,19 @@ const projects: TProject[] = [
       },
     ],
     image: d,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Headphones UI",
     description:
-      "Designing a Headphones Shopping UI in Figma involves creating an engaging and user-friendly interface that highlights various headphone products effectively. The header would feature a prominent brand logo on the left, followed by a central search bar for users to quickly find specific headphones or related accessories.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -358,19 +360,19 @@ const projects: TProject[] = [
       },
     ],
     image: e,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Clothing UI",
     description:
-      "Designing a Clothing Shopping UI in Figma involves creating an intuitive and visually appealing interface that enhances the shopping experience. The header features the brand logo on the left, a central search bar for quick item searches, and a horizontal navigation menu with categories like Men,Women,Kids,New Arrivals, and Sale. Icons for the user profile, wish list, and shopping cart are positioned on the right, with the cart displaying the number of items.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -379,19 +381,19 @@ const projects: TProject[] = [
       },
     ],
     image: f,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Luxury Watches UI",
     description:
-      "Designing a Luxury Watches Shopping UI in Figma involves creating a sophisticated and elegant interface that reflects the high-end nature of the products. The header would prominently display the brand logo on the left, complemented by a central search bar for users to easily find specific watch models or accessories. ",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -400,19 +402,19 @@ const projects: TProject[] = [
       },
     ],
     image: g,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Jordan Shopping UI",
     description:
-      "Designing a Jordan Shopping UI in Figma involves creating a bold, dynamic interface that reflects the iconic style and culture associated with the Jordan brand. The header would feature the classic Jumpman logo prominently on the left, accompanied by a central search bar for users to quickly find specific sneakers or apparel. ",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -421,19 +423,19 @@ const projects: TProject[] = [
       },
     ],
     image: h,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Uber UI",
     description:
-      "Designing an Uber-like UI in Figma focuses on creating a sleek, user-friendly interface that facilitates ride-hailing and transportation services. The header would prominently display the Uber logo on the left, alongside a central search bar where users can enter their destination.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -442,19 +444,19 @@ const projects: TProject[] = [
       },
     ],
     image: i,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Game UI",
     description:
-      "Designing a Game UI in Figma involves creating an immersive and interactive interface that enhances the gaming experience while providing essential information at a glance. The main menu would feature the game logo prominently at the top, accompanied by vibrant background art that reflects the game’s theme.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -463,19 +465,19 @@ const projects: TProject[] = [
       },
     ],
     image: j,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Shoes UI",
     description:
-      "Designing a Shoes UI in Figma involves creating a sleek, visually appealing interface that allows users to easily browse and shop for shoes. At the top, the header features a well-placed logo on the left, followed by a central search bar for finding specific shoes, and a horizontal navigation menu with options like Men, Women, Kids, and Sale. On the right, icons for user profile and shopping cart provide easy access, with the cart showing the number of items inside.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -484,19 +486,19 @@ const projects: TProject[] = [
       },
     ],
     image: k,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
   {
     name: "Futuristics Clothing UI",
     description:
-      "Designing a Futuristic Clothing UI in Figma involves creating a sleek and innovative interface that reflects modern fashion trends and technology. The header would feature a minimalist logo on the left, accompanied by a streamlined search bar for users to quickly find specific clothing items.",
+      "Designing specialized UIs in Figma for products like luxury watches, Jordan sneakers, futuristic clothing, game interfaces, and ride-hailing services involves creating visually engaging and intuitive experiences. Each UI features prominent logos, streamlined navigation menus, and striking hero sections with high-quality images and compelling taglines. ",
     tags: [
       {
         name: "Figma",
         color: "blue-text-gradient",
       },
       {
-        name: "Adobe",
+        name: " Adobe",
         color: "green-text-gradient",
       },
       {
@@ -505,7 +507,7 @@ const projects: TProject[] = [
       },
     ],
     image: l,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
   },
 ];
 
