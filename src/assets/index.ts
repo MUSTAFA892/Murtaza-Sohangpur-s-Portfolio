@@ -52,6 +52,7 @@ import i from "./company/9.jpg"
 import j from "./company/10.jpg"
 import k from "./company/11.jpg"
 import l from "./company/12.jpg"
+import m from "./company/13.png"
 
 
 export {
@@ -102,5 +103,6 @@ export {
   i,
   j,
   k,
-  l
+  l,
+  m
 };

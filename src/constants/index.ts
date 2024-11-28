@@ -45,7 +45,8 @@ import {
   i,
   j,
   k,
-  l
+  l,
+  m
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -274,7 +275,7 @@ const projects: TProject[] = [
       },
     ],
     image: a,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/207924699/Nike-store-UI",
   },
   {
     name: "Cycle Shopping UI",
@@ -295,7 +296,7 @@ const projects: TProject[] = [
       },
     ],
     image: b,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/205509759/Hercules-cycle-UI",
   },
   {
     name: "Clothing UI",
@@ -316,7 +317,7 @@ const projects: TProject[] = [
       },
     ],
     image: c,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/207924797/Cyberpunk-Jacket",
   },
   {
     name: "Nike Shopping UI",
@@ -337,7 +338,7 @@ const projects: TProject[] = [
       },
     ],
     image: d,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/207924699/Nike-store-UI",
   },
   {
     name: "Headphones UI",
@@ -358,7 +359,7 @@ const projects: TProject[] = [
       },
     ],
     image: e,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/205390525/boat-headphones-UI",
   },
   {
     name: "Clothing UI",
@@ -379,7 +380,7 @@ const projects: TProject[] = [
       },
     ],
     image: f,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/207924797/Cyberpunk-Jacket",
   },
   {
     name: "Luxury Watches UI",
@@ -400,7 +401,7 @@ const projects: TProject[] = [
       },
     ],
     image: g,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/207924891/Rolex-watch-UI",
   },
   {
     name: "Jordan Shopping UI",
@@ -421,7 +422,7 @@ const projects: TProject[] = [
       },
     ],
     image: h,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/205377227/Jordons-UI",
   },
   {
     name: "Uber UI",
@@ -442,7 +443,7 @@ const projects: TProject[] = [
       },
     ],
     image: i,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/202643133/rental-car-app",
   },
   {
     name: "Game UI",
@@ -463,7 +464,7 @@ const projects: TProject[] = [
       },
     ],
     image: j,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/203528941/Game-Store-UI-Design",
   },
   {
     name: "Shoes UI",
@@ -484,29 +485,50 @@ const projects: TProject[] = [
       },
     ],
     image: k,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
+    sourceCodeLink: "https://www.behance.net/gallery/207924699/Nike-store-UI",
   },
-  {
-    name: "Futuristics Clothing UI",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "Figma",
-        color: "blue-text-gradient",
-      },
-      {
-        name: " Adobe",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Framer",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: l,
-    sourceCodeLink: "https://github.com/Murtaza-Huzefa-Sohangpur",
-  },
+    {
+      name: "Futuristics Clothing UI",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "Figma",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " Adobe",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Framer",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: l,
+      sourceCodeLink: "https://www.behance.net/gallery/203473301/UI-game-design",
+    },
+    {
+      name: " GYM UI",
+      description:
+        "Introducing a modern and intuitive Gym Application UI designed for fitness enthusiasts and gym-goers. This sleek and user-friendly interface ensures seamless navigation and functionality, offering users everything they need for a personalized fitness journey.",
+      tags: [
+        {
+          name: "Figma",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " Adobe",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Framer",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: m,
+      sourceCodeLink: "https://www.behance.net/gallery/213538117/GYM-UI",
+    },
 ];
 
 export { services, technologies, experiences, projects };
